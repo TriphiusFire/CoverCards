@@ -1,0 +1,46 @@
+
+.cover{
+  color:black;
+  background-color:black;
+}
+.cover:hover{
+  color:black;
+  background-color:white;
+}
+
+
+.hideWord {
+  color: blue;
+  background-color: blue;
+}
+
+.hideWord2{
+  color:white;
+  background-color:white;
+}
+
+.hoverOver {
+  color: red;
+  opacity: 1.0;
+  background-color: white;
+}
+
+.whiteBG{
+  background-color: white !important;
+}
+
+.imageHide{
+  opacity: 0.02 !important;
+}
+
+.imageReveal{
+  opacity: 1.0 !important;
+}
+
+.imageReveal:parent{
+  background-color: white !important;
+}
+
+.imageHide:parent{
+  background-color: blue !important;
+}

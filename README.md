@@ -10,7 +10,7 @@ It's basically on screen flash cards
 
 If you mess up and want to delete a cover or a highlight, just click where it is.
 
-When you click "Remove Button" the cover and remove buttons go away.
+When you click "Remove Button" the cover, highlight and remove buttons all go away.
 
 You can save the webpage as study material with ctrl+s so when you open this from file the page retains all the "flash cards".  
 If you click on a cover card from a saved webpage, the cover card will not go away, so the study page is preserved.

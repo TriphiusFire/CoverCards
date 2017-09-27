@@ -1,5 +1,7 @@
 # CoverCards
 
+Watch it in action: https://youtu.be/Aqxch7_k4mo
+
 The goal of CoverCards is to create useful study pages without the need for note taking, printing, etc
 
 On the left of the screen there are buttons, "Cover", 4 types of highlight and a "Remove Buttons" button. 
